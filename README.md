@@ -1,4 +1,5 @@
-# Demo Hexagonal Architecture Using
+# Demo Hexagonal Architecture Using Java
+
 An example approach for implementing a Hexagonal Architecture with Spring Boot
 
 ### Article
